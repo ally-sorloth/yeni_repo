@@ -1,1 +1,0 @@
-#bu bizim ilk değişikliğimiz.
